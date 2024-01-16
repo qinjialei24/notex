@@ -11,8 +11,9 @@ A good note app
 ## Feature
 
 - 思维导图
-- 本地数据库存储
+- 本地数据库存储2
 - 基于block理念，任何内容都是一个block
+- 
 
 ## 技术栈
 
